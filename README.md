@@ -1,7 +1,5 @@
 # RBAC访问控制实验
 
-[TOC]
-
 > Author：l1b0
 ## 实验环境
 
